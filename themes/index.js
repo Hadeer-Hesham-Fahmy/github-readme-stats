@@ -7,7 +7,7 @@ const themes = {
     border_color: "e4e2e2",
   },
   default_repocard: {
-    title_color: "2f80ed",
+    title_color: "000ed",
     icon_color: "586069", // icon color is different
     text_color: "434d58",
     bg_color: "fffefe",
@@ -19,10 +19,10 @@ const themes = {
     bg_color: "151515",
   },
   radical: {
-    title_color: "fe428e",
-    icon_color: "f8d847",
-    text_color: "a9fef7",
-    bg_color: "141321",
+    title_color: "#ff0066",
+    icon_color: "#08fdd8",
+    text_color: "#fff",
+    bg_color: "#1c1c1c",
   },
   merko: {
     title_color: "abd200",
